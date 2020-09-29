@@ -1,3 +1,4 @@
+require_relative "./student.rb"
 def ChattyStudent < Student
 
   def hello
